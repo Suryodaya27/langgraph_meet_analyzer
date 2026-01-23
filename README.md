@@ -23,7 +23,7 @@ A fact-first, hallucination-resistant meeting transcript processor that extracts
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Suryodaya27/langgraph_meet_analyzer.git
 cd langgraph_meet_analyzer
 ```
 
