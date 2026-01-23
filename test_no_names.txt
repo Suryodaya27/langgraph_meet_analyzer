@@ -1,0 +1,14 @@
+Q1 Sales Planning Meeting
+January 16, 2026
+
+The meeting focused on three key areas for Q1 2026: pipeline management, operational readiness, and marketing initiatives.
+
+The enterprise pipeline shows strong momentum with 12 deals valued at $2.3 million in potential ARR. The largest opportunity is a company expansion from 200 to 500 licenses, with an 85% confidence level on closing. The proposal needs to be submitted by Friday, January 19th, and success metrics from the pilot program should be included to strengthen the ROI case.
+
+To handle the anticipated increase in customer volume, the team plans to hire two additional implementation specialists within 4-6 weeks. Temporary contractors will be brought in to bridge the gap, with proposals expected by Monday, January 21st. The CRM system also needs upgrading to an enterprise plan at $15,000 per year to handle performance issues and provide advanced analytics capabilities.
+
+Marketing will launch three major campaigns in Q1. A webinar series on industry best practices will start in February with one session per month. A partnership with TechInsights magazine for sponsored content is being finalized. Most importantly, a referral program will launch on February 1st, offering 10% discounts for qualified leads and 20% for converted customers. The program messaging needs approval by January 24th, and a training session for the customer success team will be scheduled for the last week of January.
+
+The team has set an ambitious target of $3.5 million in new ARR for Q1, representing a 40% increase over Q4. To support this goal, a proposal automation tool will be implemented to reduce turnaround time from 3-4 days to same-day generation. The customer success team will also expand by two members to maintain service quality with the increased customer base.
+
+Key deadlines include: proposal submission by January 19th, contractor proposals by January 21st, referral program messaging approval by January 24th, and CSM hiring to be completed by end of Q1.

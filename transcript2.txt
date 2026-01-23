@@ -1,0 +1,27 @@
+Date: January 19, 2026 Participants: Sarah Jenkins (Project Manager), Mark Thompson (Lead Developer)
+
+Sarah: Morning, Mark. Thanks for jumping on. I want to finalize the roadmap for the website relaunch and make sure we’re aligned on the Q1 goals we discussed over email yesterday.
+
+Mark: Morning, Sarah. Sounds good. I’ve reviewed the initial wireframes. Most of it looks feasible, but I have some concerns about the API integration for the new CRM.
+
+Sarah: Okay, let’s tackle that first. What’s the bottleneck?
+
+Mark: The documentation for the HubSpot API migration is a bit outdated. I need to run a manual test on the data mapping. I’ll need to spend about three hours on that this Thursday. If it fails, we might have to push the dev site launch back by a week.
+
+Sarah: Understood. Let’s stay on schedule for now. Mark, please send me a brief summary of that API test by Friday morning. If it’s a "no-go," I’ll update the stakeholders.
+
+Mark: Will do. Also, I noticed the hero images for the landing page are still missing in the shared drive.
+
+Sarah: Right, the design team is still polishing those. I will reach out to Chloe today to ensure all high-res assets are uploaded by EOD Wednesday. I’ll also make sure she includes the mobile-optimized versions.
+
+Mark: Perfect. Once those are in, I can start the frontend implementation. Speaking of which, we need to approve the final copy for the "Services" page.
+
+Sarah: I’ve got a draft ready. I’ll send the Services copy to you via email by noon today. Please take a look and let me know if there are any formatting constraints I should be aware of.
+
+Mark: Got it. One last thing—we need to schedule the UAT (User Acceptance Testing) for the following week.
+
+Sarah: Good catch. I’ll set up a 30-minute calendar invite for the UAT session for next Tuesday at 2:00 PM. I’ll invite the sales team as well.
+
+Mark: Sounds like a plan. I’m back to coding.
+
+Sarah: Thanks, Mark. Talk soon.

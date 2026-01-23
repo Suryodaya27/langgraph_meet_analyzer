@@ -1,0 +1,95 @@
+Sales Strategy Meeting - Q1 2026 Planning
+Date: January 16, 2026
+Duration: 45 minutes
+Attendees: 
+- Sarah Chen (VP of Sales)
+- Michael Rodriguez (Senior Account Executive)
+- Jennifer Liu (Customer Success Manager)
+- David Park (Sales Operations)
+- Lisa Thompson (Marketing Director)
+
+---
+
+Sarah Chen: Good morning everyone. Thanks for joining today's Q1 planning session. We have a lot to cover, so let's dive right in. Michael, can you start by giving us an update on the enterprise pipeline?
+
+Michael Rodriguez: Absolutely, Sarah. We're looking at a strong Q1. We have 12 enterprise deals in late-stage negotiations, representing about $2.3 million in potential ARR. The biggest opportunity is with TechCorp - they're looking to expand from 200 to 500 licenses. I'm meeting with their CFO, Robert Martinez, next Wednesday to finalize pricing.
+
+Sarah Chen: That's excellent news. What's your confidence level on closing TechCorp this quarter?
+
+Michael Rodriguez: I'd say 85%. The only potential blocker is their budget approval process, which can take 2-3 weeks. That's why I want to get the proposal to them by end of this week, January 19th at the latest.
+
+Jennifer Liu: I can help with that. I've been working closely with their implementation team, and they're very happy with the pilot program. I can provide testimonials and success metrics to strengthen the proposal.
+
+Michael Rodriguez: That would be perfect, Jennifer. Can you send me those by tomorrow?
+
+Jennifer Liu: Absolutely. I'll have them to you by end of day tomorrow, January 17th.
+
+Sarah Chen: Great teamwork. David, what about our sales operations? Are we ready to handle this volume of new customers?
+
+David Park: We're in good shape overall, but we need to address a few things. First, our onboarding capacity is maxed out. If we close all 12 deals, we'll need to hire two more implementation specialists. I've already started the recruitment process, but it will take 4-6 weeks to get them fully trained.
+
+Sarah Chen: That's cutting it close. Can we bring in contractors temporarily?
+
+David Park: Yes, I've reached out to three agencies. I should have proposals by next Monday, January 21st. The cost would be about 30% higher than full-time employees, but it would bridge the gap.
+
+Sarah Chen: Do it. We can't let implementation delays hurt our customer satisfaction scores. What else?
+
+David Park: Our CRM needs an upgrade. We're hitting the limits of our current plan, and we're experiencing slowdowns during peak hours. I've been in touch with the vendor, and they're offering us an enterprise plan at $15,000 per year, which would solve the performance issues and give us advanced analytics.
+
+Sarah Chen: That's a significant investment. Lisa, from a marketing perspective, would those advanced analytics help you?
+
+Lisa Thompson: Definitely. Right now, we're flying blind on lead quality and conversion patterns. With better analytics, I could optimize our campaigns and potentially reduce our cost per lead by 20-25%. I think it would pay for itself within six months.
+
+Sarah Chen: Okay, I'm convinced. David, let's move forward with the CRM upgrade. Get me the contract details by Friday, and I'll get it approved.
+
+David Park: Will do.
+
+Sarah Chen: Lisa, let's talk about marketing. What's the plan for Q1 lead generation?
+
+Lisa Thompson: We're launching three major campaigns. First, we're doing a webinar series on industry best practices - one per month starting in February. Second, we're partnering with TechInsights magazine for a sponsored content series. And third, we're launching a referral program to incentivize our existing customers to bring in new business.
+
+Sarah Chen: I like the referral program idea. What's the incentive structure?
+
+Lisa Thompson: We're offering a 10% discount on their next renewal for every qualified lead they refer, and a 20% discount if that lead converts to a customer. I've modeled it out, and even with the discounts, the economics work well because referrals have a 3x higher close rate than cold leads.
+
+Michael Rodriguez: That's smart. When does the referral program launch?
+
+Lisa Thompson: We're aiming for February 1st. I need to finalize the landing page and email templates. Sarah, I'll need your approval on the messaging by January 24th.
+
+Sarah Chen: Put it on my calendar. I'll make time to review it.
+
+Jennifer Liu: One thing to consider - we should make sure our customer success team is prepared to handle referral conversations. I'd like to do a training session with the team before the launch.
+
+Lisa Thompson: Good point. Let's schedule that for the last week of January. I'll coordinate with you offline.
+
+Sarah Chen: Excellent. Now, let's talk about our Q1 targets. Based on the pipeline and these initiatives, I'm proposing we set our team goal at $3.5 million in new ARR. That's a 40% increase over Q4, but I think it's achievable given what we're seeing.
+
+Michael Rodriguez: That's aggressive, but I think we can do it. I'd need to close at least 8 of my 12 enterprise deals to hit my individual quota.
+
+Sarah Chen: What support do you need from the team to make that happen?
+
+Michael Rodriguez: Honestly, the biggest help would be faster proposal turnaround. Right now, it takes 3-4 days to get a custom proposal approved and generated. If we could cut that to 24 hours, I could move deals through the pipeline much faster.
+
+David Park: I can work on that. We've been looking at proposal automation software. There's a tool called ProposalPro that could reduce turnaround time to same-day. It costs $5,000 per year, but if it helps us close even one extra deal, it's worth it.
+
+Sarah Chen: Let's do a trial. David, can you set that up?
+
+David Park: I'll have it configured by next week.
+
+Sarah Chen: Perfect. Any other concerns or needs before we wrap up?
+
+Jennifer Liu: Just one thing - we need to be mindful of our customer success capacity. If we're bringing in this many new customers, I'll need to expand my team. I currently have four CSMs, and our ideal ratio is one CSM per 30 accounts. With the projected growth, I'll need to hire two more by end of Q1.
+
+Sarah Chen: Agreed. Work with HR to get those job postings up this week. I'll fast-track the approvals.
+
+Jennifer Liu: Thank you.
+
+Sarah Chen: Alright, let me summarize our action items. Michael, you're getting the TechCorp proposal out by Friday with Jennifer's success metrics. David, you're getting contractor proposals for implementation support, finalizing the CRM upgrade contract, and setting up the ProposalPro trial. Lisa, you're getting me the referral program messaging by January 24th and coordinating training with Jennifer's team. Jennifer, you're sending success metrics to Michael tomorrow and working with HR on CSM hiring. Does everyone have what they need?
+
+[Multiple voices]: Yes, sounds good.
+
+Sarah Chen: Excellent. Let's reconvene in two weeks to check progress. I'm excited about Q1 - I think we're going to crush it. Thanks everyone.
+
+---
+
+End of transcript
