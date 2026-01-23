@@ -42,7 +42,4 @@ results_v*/
 # Logs
 *.log
 
-# Test files
-test_*.txt
-transcript*.txt
-sample_transcript.txt
+run.py
