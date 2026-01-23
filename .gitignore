@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Environment Variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Results and Outputs
+results_v*/
+*.json
+
+# Old Versions (optional - remove these lines if you want to keep them in git)
+/versions_processor/
+/examples/
+/src/
+/docs
+
+# Logs
+*.log
+
+# Test files
+test_*.txt
+transcript*.txt
+sample_transcript.txt
