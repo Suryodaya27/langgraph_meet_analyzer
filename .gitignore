@@ -29,17 +29,20 @@ env/
 .DS_Store
 Thumbs.db
 
-# Results and Outputs
+# Results (generated output)
 results_v*/
-*.json
 
-# Old Versions (optional - remove these lines if you want to keep them in git)
+# Old Versions (safe to delete)
 /versions_processor/
 /examples/
 /src/
-/docs
+/docs/
+run.py
 
 # Logs
 *.log
 
+
 run.py
+run_v8.py
+/src2

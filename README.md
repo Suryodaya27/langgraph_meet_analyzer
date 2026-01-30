@@ -1,14 +1,37 @@
-# Meeting Transcript Processor V8
+# Meeting Transcript Processor
 
 A fact-first, hallucination-resistant meeting transcript processor that extracts action items, todos, and follow-up emails using LangGraph and LLMs.
 
-## 🎯 Key Features
+## 🎯 Versions
 
-- **Fact-First Architecture**: Extracts facts once, validates them, then derives all outputs from validated facts only
-- **No Hallucinations**: LLM never sees the original transcript during output generation - only validated facts
-- **Hybrid Validation**: Rule-based (fast, free) + AI-based (quality checks) with retry logic
-- **Multi-Provider Support**: OpenAI, Google Gemini, or Ollama (local)
-- **Auditability**: Every output traces back to source facts with exact quotes
+| Version | Directory | Description |
+|---------|-----------|-------------|
+| **V9** | `/src3` | Skills-Enhanced Architecture (Recommended) |
+| V8 | `/src2` | Fact-First Architecture |
+
+## 🚀 V9: Skills-Enhanced Architecture
+
+V9 uses professional skill files (`.md`) that teach the LLM how to perform each task like an expert. This dramatically improves output quality and consistency.
+
+### Key Features
+
+- **Professional Skills**: Each node has a dedicated skill file with expert-level instructions
+- **Fact-First Pipeline**: Extract → Validate → Derive (prevents hallucinations)
+- **Validation with Feedback**: Failed outputs retry with specific feedback
+- **Enterprise-Grade Quality**: Outputs suitable for paying customers
+
+### Skill Files
+
+Located in `/src3/skills/`:
+
+| Skill | Purpose |
+|-------|---------|
+| `EXTRACT_FACTS.md` | Expert meeting analyst for fact extraction |
+| `VALIDATE_FACTS.md` | Quality control specialist for fact validation |
+| `GENERATE_SUMMARY.md` | Executive communications for summaries |
+| `GENERATE_ACTION_POINTS.md` | Management consultant for strategic actions |
+| `GENERATE_TODOS.md` | Project coordinator for tactical tasks |
+| `GENERATE_EMAIL.md` | Communications specialist for follow-ups |
 
 ## 📋 Prerequisites
 
@@ -116,14 +139,15 @@ result = process_meeting(
 
 ### Basic Usage
 
-1. Place your meeting transcript in a text file (e.g., `transcript.txt`)
+**V9 (Recommended)**:
+```bash
+python run_v9.py
+```
 
-2. Run the processor:
+**V8**:
 ```bash
 python run_v8.py
 ```
-
-3. Find the results in `results_v8/meeting_outputs.json`
 
 ### Custom Transcript
 
@@ -225,25 +249,34 @@ if rule_score < 8:  # Change to 7 for more lenient, 9 for stricter
 
 ```
 langgraph_meet_analyzer/
-├── src2/                      # V8 Fact-First Architecture
+├── src3/                      # V9 Skills-Enhanced Architecture
+│   ├── skills/                # Professional skill files
+│   │   ├── EXTRACT_FACTS.md
+│   │   ├── VALIDATE_FACTS.md
+│   │   ├── GENERATE_SUMMARY.md
+│   │   ├── GENERATE_ACTION_POINTS.md
+│   │   ├── GENERATE_TODOS.md
+│   │   └── GENERATE_EMAIL.md
 │   ├── nodes/                 # LangGraph nodes
-│   │   ├── normalize.py       # Transcript cleaning
-│   │   ├── extract_facts.py   # Fact extraction (4 calls)
-│   │   ├── validate_facts.py  # Rule-based validation
+│   │   ├── normalize.py
+│   │   ├── extract_facts.py
+│   │   ├── validate_facts.py
 │   │   ├── generate_summary.py
 │   │   ├── generate_action_points.py
 │   │   ├── generate_todos.py
 │   │   ├── generate_email.py
-│   │   ├── validate_outputs.py # Output validation
 │   │   └── compliance_check.py
-│   ├── models.py              # Pydantic models
-│   ├── graph.py               # LangGraph workflow
-│   ├── processor.py           # Main interface
-│   └── llm_provider.py        # LLM initialization
-├── run_v8.py                  # Main entry point
-├── requirements.txt           # Python dependencies
-├── .env.example               # Environment template
-└── README.md                  # This file
+│   ├── models.py
+│   ├── graph.py
+│   ├── processor.py
+│   ├── skill_loader.py
+│   └── llm_provider.py
+├── src2/                      # V8 Fact-First Architecture
+├── run_v9.py                  # V9 entry point (recommended)
+├── run_v8.py                  # V8 entry point
+├── requirements.txt
+├── .env.example
+└── README.md
 ```
 
 ## 🐛 Troubleshooting
@@ -302,4 +335,4 @@ Built with:
 
 ---
 
-**Note**: This is V8 (Fact-First Architecture). Previous versions (V1-V7) are in `/versions_processor` for reference but are not maintained.
+**V9** is the recommended version with skills-enhanced architecture for professional-grade output.
