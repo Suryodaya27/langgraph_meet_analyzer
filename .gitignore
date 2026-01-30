@@ -34,6 +34,7 @@ results_v*/
 
 # Old Versions (safe to delete)
 /versions_processor/
+/src2/
 /examples/
 /src/
 /docs/
@@ -45,4 +46,3 @@ run.py
 
 run.py
 run_v8.py
-/src2
